@@ -1,7 +1,7 @@
 # Datatypes
 
 ## Primitives
-* [Boolean] (#boolean)
+* [Boolean](#boolean)
 ### Boolean
 A Boolean datatype has a size of one byte. Its value represents a state of 'true' or 'false'. 
 This value is represented by value of one for true and zero  for false.
