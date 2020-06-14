@@ -3,8 +3,8 @@
 	* [Boolean](#boolean)
 ## Primitives
 | Datatype | Keyword | Range | Description|
-|---|---|---|---|---|
-|[Boolean](#boolean)|bool|Integer 0 or 1|Holds value representing true or false|
+|---|---|---|---|
+| [Boolean](#boolean) | bool | Integer 0 or 1 | Holds value representing true or false|
 ### Boolean
 A Boolean datatype has a size of one byte. Its value represents a state of 'true' or 'false'. 
 This value is represented by value of one for true and zero  for false.
