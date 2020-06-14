@@ -62,6 +62,7 @@ You can modify the range and size by using the keywords **unsigned**,**short** a
 The **Short** reduces it size to two bytes.   
 The **Long** sets the size to four bytes.   
 The **Unsigned** restricts value to positive values.
+#### Declaring and assigning values to Boolean
 
 ### float
 
